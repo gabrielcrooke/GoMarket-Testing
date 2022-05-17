@@ -1,0 +1,638 @@
+{
+	"id": "60ee800b-7cfe-4ebe-91db-351c69d43460",
+	"name": "Home page APIS",
+	"timestamp": "2022-05-17T21:21:47.444Z",
+	"collection_id": "20548664-62ac6ffc-50f1-4639-abbb-5b56e6412ca9",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 16,
+	"totalFail": 4,
+	"results": [
+		{
+			"id": "fd95da77-9e2c-4ed7-a28b-a1919eacd3aa",
+			"name": "Even access",
+			"url": "https://graph.facebook.com/v11.0/2643157969263110/events?access_token=EAAFL6OSEzdgBALUACYVS93a3WOPgi0hGwNMSvJIW07duSltvxDZCno8qQk98lpv51IdZB463dl6VDtgyrJcf8BcA2A9n1NZCSZCChjPjFf2U7ZBVMvrlAaTE3nafvklQSINIQNhlX6grwUgWZAqZAwVhZBNR6vlACmTXFSNZAAxvIvzqZBDBGba8MZA",
+			"time": 188,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				188
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		},
+		{
+			"id": "46d460d1-3911-4934-a567-afaeb507a8c4",
+			"name": "775",
+			"url": "https://gomarket.com.do/landing_page_sections/775",
+			"time": 922,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				922
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "9caa58e8-ce56-4ba3-8a65-e5419b9ea8bb",
+			"name": "1037",
+			"url": "https://gomarket.com.do/landing_page_sections/1037",
+			"time": 571,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				571
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "97275810-2814-4221-8e29-df5254c7bffa",
+			"name": "982",
+			"url": "https://gomarket.com.do/landing_page_sections/982",
+			"time": 172,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				172
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "b6d2a537-48c8-456f-b14c-ad7b90ced321",
+			"name": "378",
+			"url": "https://gomarket.com.do/landing_page_sections/378",
+			"time": 234,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				234
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "9cfe9486-4f9f-4bce-b248-3c622e70bbb7",
+			"name": "959",
+			"url": "https://gomarket.com.do/landing_page_sections/959",
+			"time": 206,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				206
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "e98b5a0c-69d8-46a0-9332-4c5a72ba0218",
+			"name": "961",
+			"url": "https://gomarket.com.do/landing_page_sections/961",
+			"time": 899,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				899
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "6ab2962b-f994-4481-8194-0a1f25cb132f",
+			"name": "962",
+			"url": "https://gomarket.com.do/landing_page_sections/962",
+			"time": 209,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				209
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "abe97f1b-27d8-43ce-9ebf-7841ac258deb",
+			"name": "131",
+			"url": "https://gomarket.com.do/landing_page_sections/131",
+			"time": 727,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				727
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "66b41f00-92a9-4e0d-aa5f-2688783f7f5b",
+			"name": "732",
+			"url": "https://gomarket.com.do/landing_page_sections/732",
+			"time": 243,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				243
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "04d5d5b6-d7a2-49d8-a02f-db5b6aeaf183",
+			"name": "792",
+			"url": "https://gomarket.com.do/landing_page_sections/732",
+			"time": 209,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				209
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "11c4b6fa-1d1e-4fb0-9e47-f80ce2f305f1",
+			"name": "1008",
+			"url": "https://gomarket.com.do/landing_page_sections/1008",
+			"time": 629,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				629
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "633d98d6-e2e0-48a0-8809-06efc5d05b9e",
+			"name": "Googlea",
+			"url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+			"time": 308,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				308
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "0cca37d9-1ca5-4373-a985-8e12604b328f",
+			"name": "goads",
+			"url": "https://super.goads.com.do/www/delivery/asyncspc.php?zones=1%7C2%7C3%7C4&prefix=revive-0-&loc=https%3A%2F%2Fgomarket.com.do%2F&referer=https%3A%2F%2Fgomarket.com.do%2Flogin",
+			"time": 375,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				375
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3ddd1f81-fe5f-46ca-aff0-ff5a2e96c3be",
+			"name": "API tokes",
+			"url": "https://gomarket.com.do/api_tokens",
+			"time": 207,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				207
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f518fefe-2ffd-4ab5-9b0f-9e694c4f2740",
+			"name": "acces token",
+			"url": "https://graph.facebook.com/v11.0/2643157969263110/events?access_token=EAAFL6OSEzdgBALUACYVS93a3WOPgi0hGwNMSvJIW07duSltvxDZCno8qQk98lpv51IdZB463dl6VDtgyrJcf8BcA2A9n1NZCSZCChjPjFf2U7ZBVMvrlAaTE3nafvklQSINIQNhlX6grwUgWZAqZAwVhZBNR6vlACmTXFSNZAAxvIvzqZBDBGba8MZA",
+			"time": 92,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				92
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		},
+		{
+			"id": "b55db4d0-dc8d-45df-8a37-20b58fb7b774",
+			"name": "Acces faco",
+			"url": "https://graph.facebook.com/v11.0/2643157969263110/events?access_token=EAAFL6OSEzdgBALUACYVS93a3WOPgi0hGwNMSvJIW07duSltvxDZCno8qQk98lpv51IdZB463dl6VDtgyrJcf8BcA2A9n1NZCSZCChjPjFf2U7ZBVMvrlAaTE3nafvklQSINIQNhlX6grwUgWZAqZAwVhZBNR6vlACmTXFSNZAAxvIvzqZBDBGba8MZA",
+			"time": 93,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				93
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		},
+		{
+			"id": "32ce0b87-c328-430c-aa08-41f0d271aa89",
+			"name": "Acces 23",
+			"url": "https://graph.facebook.com/v11.0/2643157969263110/events?access_token=EAAFL6OSEzdgBALUACYVS93a3WOPgi0hGwNMSvJIW07duSltvxDZCno8qQk98lpv51IdZB463dl6VDtgyrJcf8BcA2A9n1NZCSZCChjPjFf2U7ZBVMvrlAaTE3nafvklQSINIQNhlX6grwUgWZAqZAwVhZBNR6vlACmTXFSNZAAxvIvzqZBDBGba8MZA",
+			"time": 84,
+			"responseCode": {
+				"code": 400,
+				"name": "Bad Request"
+			},
+			"tests": {
+				"Status code is 200": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				84
+			],
+			"allTests": [
+				{
+					"Status code is 200": false
+				}
+			]
+		},
+		{
+			"id": "45dc1ea1-617a-4238-bd97-53d7502e3193",
+			"name": "Zohoo",
+			"url": "https://salesiq.zoho.com/visitor/v2/channels/website?widgetcode=fa730100c972e389570f07972d5e0b2c395dd5f7d89a393e41035d64655e1cfd&internal_channel_req=true&last_modified_time=1651678072638&version=V25&browser_language=es&current_domain=https%3A%2F%2Fgomarket.com.do&pagetitle=Env%C3%ADos%20a%20todo%20R.D.%20-%20GoMarket.com.do",
+			"time": 558,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				558
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "7b0dbce4-6a48-4fa4-9740-8beb630b66c3",
+			"name": "Stats",
+			"url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-66942284-8&cid=1480767793.1650500141&jid=1420237490&gjid=1674279785&_gid=273381349.1652022969&_u=QCCAgEABAAAAAE~&z=1899622782",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 7041,
+	"collection": {
+		"requests": [
+			{
+				"id": "fd95da77-9e2c-4ed7-a28b-a1919eacd3aa",
+				"method": "POST"
+			},
+			{
+				"id": "46d460d1-3911-4934-a567-afaeb507a8c4",
+				"method": "GET"
+			},
+			{
+				"id": "9caa58e8-ce56-4ba3-8a65-e5419b9ea8bb",
+				"method": "GET"
+			},
+			{
+				"id": "97275810-2814-4221-8e29-df5254c7bffa",
+				"method": "GET"
+			},
+			{
+				"id": "b6d2a537-48c8-456f-b14c-ad7b90ced321",
+				"method": "GET"
+			},
+			{
+				"id": "9cfe9486-4f9f-4bce-b248-3c622e70bbb7",
+				"method": "GET"
+			},
+			{
+				"id": "e98b5a0c-69d8-46a0-9332-4c5a72ba0218",
+				"method": "GET"
+			},
+			{
+				"id": "6ab2962b-f994-4481-8194-0a1f25cb132f",
+				"method": "GET"
+			},
+			{
+				"id": "abe97f1b-27d8-43ce-9ebf-7841ac258deb",
+				"method": "GET"
+			},
+			{
+				"id": "66b41f00-92a9-4e0d-aa5f-2688783f7f5b",
+				"method": "GET"
+			},
+			{
+				"id": "04d5d5b6-d7a2-49d8-a02f-db5b6aeaf183",
+				"method": "GET"
+			},
+			{
+				"id": "11c4b6fa-1d1e-4fb0-9e47-f80ce2f305f1",
+				"method": "GET"
+			},
+			{
+				"id": "633d98d6-e2e0-48a0-8809-06efc5d05b9e",
+				"method": "GET"
+			},
+			{
+				"id": "0cca37d9-1ca5-4373-a985-8e12604b328f",
+				"method": "GET"
+			},
+			{
+				"id": "3ddd1f81-fe5f-46ca-aff0-ff5a2e96c3be",
+				"method": "GET"
+			},
+			{
+				"id": "f518fefe-2ffd-4ab5-9b0f-9e694c4f2740",
+				"method": "POST"
+			},
+			{
+				"id": "b55db4d0-dc8d-45df-8a37-20b58fb7b774",
+				"method": "POST"
+			},
+			{
+				"id": "32ce0b87-c328-430c-aa08-41f0d271aa89",
+				"method": "POST"
+			},
+			{
+				"id": "45dc1ea1-617a-4238-bd97-53d7502e3193",
+				"method": "GET"
+			},
+			{
+				"id": "7b0dbce4-6a48-4fa4-9740-8beb630b66c3",
+				"method": "POST"
+			}
+		]
+	}
+}
